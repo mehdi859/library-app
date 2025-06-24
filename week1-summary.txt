@@ -1,0 +1,4 @@
+Résumé de la premiere semaine : 
+1- j'ai appris les commandes de bases du commander 
+2- j'ai appris comment utiliser le git, les commits et comment push les changements dans le GitHub 
+3- j'ai appris comment fonctionnent l'arrière plan du monde du web 
