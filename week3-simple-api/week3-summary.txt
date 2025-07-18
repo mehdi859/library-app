@@ -1,0 +1,3 @@
+1- Expresse permet d'aider à construire des sites web et des API avec Node.js
+2- REST est un ensemble de principes pour construire des API web tel que (GET, POST, PUT, DELETE),
+3- Un "point d'API" est une adresse spécifique sur un serveur où on envoie une requete pour obtenir ou envoyer des informations précises.
