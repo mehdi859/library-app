@@ -45,7 +45,7 @@ app.get('/api/books', async (req, res) => {
 
 app.get('/api/books/:id', async (req, res) => {
   try {
-    const book = await Book.findById(req.params.id); // Cherche un livre par son ID
+    const book = await Book.findById(req.params.id); 
     if (!book) {
       return res.status(404).send('Livre non trouvé.');
     }
