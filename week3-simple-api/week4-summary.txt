@@ -1,0 +1,3 @@
+1- une base de données permet de sauvegarder les informations de manière persisantes
+2- la partie la plus difficiles a été la configuration et la connexion de l'API à la base de donnée 
+3- les avantages du système de base de données MongoDB est la flexibilité et la simplicité de développement 

@@ -1,0 +1,8 @@
+1.
+- HTML sert à structurer le contenu d’une page web. 
+- CSS est utilisé pour styliser la page.
+- JavaScript est un langage qui permet de rendre la page interactive. 
+2. 
+Le responsive design consiste à créer des pages web qui s’adaptent automatiquement à toutes les tailles d’écran
+3. 
+La partie la plus difficile a été de rendre la page responsive avec le CSS
